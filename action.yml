@@ -1,0 +1,10 @@
+name: 'tf-poc-g'
+description: 'First action'
+author: Fabio
+
+branding:
+  icon: globe
+  color: purple
+
+runs:
+  run: echo "teste"
